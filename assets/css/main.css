@@ -2599,7 +2599,7 @@ input, select, textarea {
 		}
 		.image.align-center img {
 			margin: auto;
-			width: 50%;
+			width: min(100%, 600px);
 			margin-bottom: 4rem;
 		}
 		.image.left, .image.right {
