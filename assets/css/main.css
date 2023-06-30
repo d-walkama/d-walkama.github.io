@@ -2599,6 +2599,7 @@ input, select, textarea {
 		}
 		.image.align-center img {
 			margin: auto;
+			width: max(50%, min(500px, 100%));
 			margin-bottom: 4rem;
 		}
 		.image.left, .image.right {
